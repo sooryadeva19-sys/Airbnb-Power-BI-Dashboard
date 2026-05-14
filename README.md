@@ -1,58 +1,70 @@
-# 🏠 Airbnb Power BI Dashboard
+# Airbnb Listings Analytics Dashboard
 
-## 📌 Project Overview  
-This project focuses on analyzing Airbnb listing data using Power BI to uncover insights related to pricing, room types, and location trends.
+## Overview
+This project is an interactive Power BI dashboard created using Airbnb listing data.  
+The dashboard helps analyze pricing, room types, bedroom distribution, and city-wise trends.
 
----
-
-## 🎯 Objectives  
-- Analyze pricing trends  
-- Compare room types  
-- Understand customer preferences  
-- Present insights using dashboard  
+The goal of this project is to demonstrate data visualization, business intelligence, and analytical skills using Power BI.
 
 ---
 
-## 🛠️ Tools Used  
-- Power BI  
-- Microsoft Excel  
+## Dashboard Features
+
+### KPI Cards
+- Total Listings
+- Average Price
+- Maximum Bedrooms
+
+### Visualizations
+- Average Price by City
+- Count of Listings by Room Type
+- Sum of Price by Room Type
+- Sum of Price by Bedrooms
+
+### Interactive Filters
+- Room Type Filter
+- City Filter
 
 ---
 
-## 🗂️ Dataset Details  
-- Dataset: Airbnb Listings  
-- Rows: 1000+  
-- Columns: city, neighbourhood, price, room type, ratings  
+## Tools & Technologies Used
+
+- Power BI
+- Excel
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
 
 ---
 
-## 🧹 Data Cleaning  
-- Removed unnecessary columns  
-- Cleaned price column  
-- Handled missing values  
-- Removed duplicates  
+## Dataset Information
+
+The dataset contains Airbnb listing details such as:
+- City
+- Room Type
+- Price
+- Bedrooms
+- Listing Information
 
 ---
 
-## 📊 Dashboard Features  
-- KPI Cards: Total Listings, Average Price, Average Rating  
-- Bar Chart: Average Price by City  
-- Pie Chart: Room Type Distribution  
-- Slicer: City filter  
+## Key Insights
+
+- Entire Place listings dominate the market.
+- Certain cities have significantly higher average prices.
+- Listings with fewer bedrooms contribute most to total pricing distribution.
+- Private rooms contribute less revenue compared to entire place listings.
 
 ---
 
-## 📷 Dashboard Preview  
-![Dashboard](dashboard.png)
+## Dashboard Preview
+
+![Dashboard Screenshot](screenshots/dashboard.png)
 
 ---
 
-## 💡 Insights  
-- Some cities have higher prices  
-- Entire homes are most common  
-- Pricing varies by location  
+## How to Open the Project
 
----
-
-## 🚀 Conclusion  
-This dashboard helps understand Airbnb pricing and listing patterns using Power BI.
+1. Download the `.pbix` file
+2. Open using Power BI Desktop
+3. Explore the dashboard interactively
