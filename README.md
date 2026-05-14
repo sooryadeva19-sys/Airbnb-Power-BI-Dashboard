@@ -59,7 +59,7 @@ The dataset contains Airbnb listing details such as:
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](screenshots/Airbnbdashboard.png)
 
 ---
 
